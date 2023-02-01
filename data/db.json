@@ -1,0 +1,39 @@
+{
+"favourites":[
+    {
+        "title":"Bajrangi",                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+        "genre":"fantasy",
+        "language":"Hindi",
+        "ratings":"5.2",
+        "id":1
+    },
+    {
+        "title":"Shinchan",
+        "genre":"comedy",
+        "language":"Tamil",
+        "ratings":"8",
+        "id":2
+    },
+    {
+        "title":"Doraemon",
+        "genre":"scifi",
+        "language":"Tamil",
+        "ratings":"9",
+        "id":3
+    },
+    {
+        "title":"Simple samosa",
+        "genre":"comedy",
+        "language":"Hindi",
+        "ratings":"6.6",
+        "id":4
+    },
+    {
+        "title":"Eena meena deeka",
+        "genre":"comedy",
+        "language":"hindi",
+        "ratings":"7.8",
+        "id":5
+    }
+]
+}

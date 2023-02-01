@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../../../webtech"
+		},
+		{
+			"path": "../../../../../../python"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webtech"
+	}
+}
